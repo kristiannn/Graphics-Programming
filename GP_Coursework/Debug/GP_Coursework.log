@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  Textures.cpp
+  Sounds.cpp
+  Shaders.cpp
+  Screen.cpp
+  Overlays.cpp
+  obj_loader.cpp
+d:\uni\year 3\graphics programming\coursework resit\s1512113-graphics2-augresit\gp_coursework\obj_loader.cpp(378): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  GP_Coursework.cpp
+  GameMesh.cpp
+d:\uni\year 3\graphics programming\coursework resit\s1512113-graphics2-augresit\gp_coursework\gamemesh.cpp(62): warning C4930: 'Sphere meshSphere(void)': prototyped function not called (was a variable definition intended?)
+  Game.cpp
+  Generating Code...
+  stb_image.c
+  GP_Coursework.vcxproj -> D:\Uni\Year 3\Graphics Programming\Coursework Resit\S1512113-GRAPHICS2-AUGRESIT\Debug\GP_Coursework.exe

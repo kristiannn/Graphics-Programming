@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  Game.cpp
+  GameMesh.cpp
+GameMesh.cpp(62): warning C4930: 'Sphere meshSphere(void)': prototyped function not called (was a variable definition intended?)
+  GP_Coursework.cpp
+  obj_loader.cpp
+obj_loader.cpp(378): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Overlays.cpp
+  Screen.cpp
+  Shaders.cpp
+  Sounds.cpp
+  Textures.cpp
+  stb_image.c
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  All 1203 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GP_Coursework.vcxproj -> D:\Uni\Year 3\Graphics Programming\Coursework Resit\S1512113-GRAPHICS2-AUGRESIT\Release\GP_Coursework.exe
